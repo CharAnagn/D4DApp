@@ -1,0 +1,10 @@
+{
+"dev": {
+    "host": "localhost",
+    "user": "d4dapp",
+    "password" : "d4dapp",
+    "database": "d4d",
+    "driver": "mysql",
+    "multipleStatements": true
+  }
+}
